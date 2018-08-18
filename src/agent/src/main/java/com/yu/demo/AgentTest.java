@@ -9,6 +9,7 @@ public class AgentTest {
      */
     public static void main(String[] args) {
         System.out.println("hello Agent");
+        System.out.println("李四第二次修改代码");
     }
 
     //但是李四下一次会区修改张三的模块应该会发生冲突，提交自己的模块不会冲突
